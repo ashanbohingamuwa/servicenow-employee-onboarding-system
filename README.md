@@ -1,29 +1,60 @@
-# Employee Onboarding System
+# Employee Onboarding System (ServiceNow)
 
 ## Overview
-This is a ServiceNow project built to automate employee onboarding processes in an enterprise environment.
+This project is a custom-built Employee Onboarding System developed on ServiceNow to automate HR onboarding workflows, including approvals, task creation, and IT provisioning.
 
-## Project Goal
-To simulate real-world HR onboarding workflow using ServiceNow features like:
-- Tables
-- Forms
-- Approvals
+## Objective
+To simulate a real enterprise onboarding process where:
+- Employees submit onboarding requests
+- Managers approve requests
+- HR and IT teams are assigned tasks automatically
+- Status is tracked end-to-end
+
+Built as a learning + portfolio project for ServiceNow development.
+
+---
+
+## Platform
+- ServiceNow (Scoped Application)
 - Flow Designer
-- Notifications
+- Business Rules
+- Tables & Forms
+- JavaScript (Server-side scripting)
 
-## Features (Planned)
-- Employee onboarding request form
-- Manager approval workflow
-- HR task creation
-- IT setup tasks
+---
+
+## Planned Features
+
+### Phase 1 (Current)
+- Employee onboarding request table
+- Basic form creation
 - Status tracking
+
+### Phase 2
+- Manager approval workflow
+- HR task automation
+- IT provisioning tasks
+
+### Phase 3
 - Notifications
+- SLA tracking
+- Reporting dashboard
+
+---
 
 ## Project Structure
-- docs/ → project documentation
-- notes/ → learning notes
-- exports/ → ServiceNow update sets or exports
-- screenshots/ → UI and workflow images
+- `docs/` → documentation & design notes
+- `screenshots/` → UI & workflow screenshots
+- `exports/` → ServiceNow update sets / configs
+- `notes/` → learning notes & scripts
+
+---
 
 ## Status
-Initial setup phase
+Work in progress (Active development)
+
+---
+
+## Author
+Ashan Bohingamuwa  
+ServiceNow Developer (CSA Certified)
