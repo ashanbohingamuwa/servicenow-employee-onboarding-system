@@ -44,14 +44,20 @@ Built as a learning + portfolio project for ServiceNow development.
 
 ## Project Structure
 - `docs/` → documentation & design notes
-- `screenshots/` → UI & workflow screenshots
+- `screenshots/`
+  - `form/` → onboarding form screenshots
+  - `table/` → table structure screenshots
 - `exports/` → ServiceNow update sets / configs
 - `notes/` → learning notes & scripts
 
 ---
 
-## Status
-Work in progress (Active development)
+## Current Progress
+- Scoped application created
+- Employee onboarding request table configured
+- Form layout designed
+- Sample onboarding records created
+- GitHub documentation structure completed
 
 ---
 
